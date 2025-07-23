@@ -1,14 +1,30 @@
 [General]
 name = dmm
+author = blackmatrix7
+repo = https://github.com/blackmatrix7/ios_rule_script
+updated = 2025-06-06 09:18:49
+total_domain_suffix = 18
+total_ip_cidr = 2
+total = 20
 
 [Rule]
+DOMAIN-SUFFIX,akabeesoft2.com
+DOMAIN-SUFFIX,akabeesoft3.com
+DOMAIN-SUFFIX,akatsukiworks.com
+DOMAIN-SUFFIX,alicesoft.com
+DOMAIN-SUFFIX,api-p.videomarket.jp
+DOMAIN-SUFFIX,cosmiccute.com
+DOMAIN-SUFFIX,ddo.jp
+DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmm.com
-DOMAIN-SUFFIX,dmmcdn.com
-DOMAIN-SUFFIX,dmm-extension.com
-DOMAIN-SUFFIX,dmm-movie.com
-DOMAIN-SUFFIX,dmm-portal.com
-DOMAIN-SUFFIX,fanza.jp
-DOMAIN-SUFFIX,aws.dmm.com
-DOMAIN-SUFFIX,dmm.co
-DOMAIN-SUFFIX,dmm.co.jp.akadns.net
+DOMAIN-SUFFIX,dmm.hk
+DOMAIN-SUFFIX,dmmapis.com
+DOMAIN-SUFFIX,dmmrex.com
+DOMAIN-SUFFIX,hibiki-site.com
+DOMAIN-SUFFIX,minori.ph
+DOMAIN-SUFFIX,navismithapis-cdn.com
+DOMAIN-SUFFIX,tenco.cc
+DOMAIN-SUFFIX,wheel-soft.com
+IP-CIDR,125.6.189.7/32,no-resolve
+IP-CIDR,203.104.209.7/32,no-resolve
